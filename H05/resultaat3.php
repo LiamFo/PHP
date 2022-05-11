@@ -5,4 +5,3 @@ if($_POST["wachtwoord"] == "steveiscool" && $_POST["email"] == "steve@gmail.com"
     }else{
         echo "<h1>Sorry! Geen toegang</h1>";
     }
-    
